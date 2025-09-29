@@ -2,29 +2,24 @@ import random
 
 # Lista de frases
 frases = [
-    "Sempre buscando melhorar minhas habilidades! ",
-    "Cada projeto é uma oportunidade de aprendizado ",
-    "Front-end ou back-end, o importante é criar soluções! ",
-    "Codar é transformar ideias em realidade ",
-    "Desenvolvimento web é minha paixão ",
-    "Um commit por vez, construindo o futuro "
+    "Aprender é a melhor forma de se reinventar!",
+    "Hoje é um ótimo dia para codar!",
+    "TypeScript é vida! 🚀",
+    "Back-end poderoso com Node.js!",
+    "React Native deixa tudo mais mobile-friendly!"
 ]
 
-# Escolhe uma frase aleatória
-frase = random.choice(frases)
+# Escolher uma frase aleatória
+nova_frase = random.choice(frases)
 
-# Lê o README atual
+# Lê o README
 with open("README.md", "r", encoding="utf-8") as f:
-    conteudo = f.readlines()
+    conteudo = f.read()
 
 # Substitui a linha da curiosidade
-novo_conteudo = []
-for linha in conteudo:
-    if linha.strip().startswith("> Aqui vai aparecer"):
-        novo_conteudo.append(f"> {frase}\n")
-    else:
-        novo_conteudo.append(linha)
+import re
+conteudo = re.sub(r"(> Aqui vai aparecer uma frase aleatória.*)", f"> {nova_frase}", conteudo)
 
 # Salva o README atualizado
 with open("README.md", "w", encoding="utf-8") as f:
-    f.writelines(novo_conteudo)
+    f.write(conteudo)

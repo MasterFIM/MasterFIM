@@ -5,9 +5,13 @@
 
 ---
 
+![Banner Legal](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
 ## 🧾 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, com foco em **aplicações web eficientes** e **automatizações inteligentes** usando **Python**.  
-Tenho experiência em projetos que envolvem:
+Sou um dev apaixonado por tecnologia, com foco em **aplicações web eficientes** e **automatizações inteligentes** usando **Python**.  
+Meus projetos envolvem:
 
 - 🔍 Web Scraping  
 - 📊 Manipulação e análise de dados  
@@ -32,24 +36,51 @@ Tenho experiência em projetos que envolvem:
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto 1**](#) – Descrição breve do que faz.  
-🔹 [**Projeto 2**](#) – Descrição breve do que faz.  
-🔹 [**Projeto 3**](#) – Descrição breve do que faz.  
+<div align="center">
 
-> *(Adicione os links dos seus repositórios aqui para deixar o portfólio ainda mais forte!)*
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| 🚀 Projeto 1 | Web Scraping de dados complexos | [Repositório](#) |
+| 💡 Projeto 2 | Automação de tarefas repetitivas | [Repositório](#) |
+| 🖥️ Projeto 3 | Dashboard interativo em Python | [Repositório](#) |
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-📌 GitHub: [@MasterFIM](https://github.com/MasterFIM)  
-📧 Email: **benedito.inacio.177@gmail.com**  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MasterFIM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterFIM)
+[![Email](https://img.shields.io/badge/Email-seu-email-aqui-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
+
+</div>
 
 ---
 
-## ⚡ Curiosidade
-> “Automatizar é transformar tarefas repetitivas em soluções inteligentes que economizam tempo e aumentam a produtividade.”
+## ⚡ Curiosidade do Dia
+> Aqui vai aparecer uma frase aleatória a cada atualização ✨  
+
+*(Frases são atualizadas automaticamente com GitHub Actions a cada 6h ou manualmente)*
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterFIM&show_icons=true&theme=dark&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterFIM&layout=compact&theme=dark)
+
+---
+
+## 🎮 Fun Extras
+
+- 🕹️ [Jogue comigo no Minecraft!](#) *(ou outro projeto divertido)*
+- 🎵 Música que estou ouvindo: *“Song Name – Artista”*  
+- 🌱 Atualmente aprendendo: *Docker, Kubernetes, AI*  
+- 💬 Curiosidade divertida: “Cada commit é um passo para a imortalidade digital” 😎
+
+---
+
 ✨ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus repositórios e contribuir.
+Sinta-se à vontade para explorar meus repositórios, contribuir e se divertir!  

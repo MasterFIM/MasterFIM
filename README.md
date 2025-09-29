@@ -5,18 +5,9 @@
 
 ---
 
-![Banner Legal](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
----
-
 ## 🧾 Sobre Mim
-Sou um dev apaixonado por tecnologia, com foco em **aplicações web eficientes** e **automatizações inteligentes** usando **Python**.  
-Meus projetos envolvem:
-
-- 🔍 Web Scraping  
-- 📊 Manipulação e análise de dados  
-- 🖥️ Criação de interfaces  
-- 🔗 Integração com APIs  
+Sou um desenvolvedor focado em criar **sites modernos**, **interfaces intuitivas** e **soluções web eficientes**.  
+Tenho experiência em desenvolvimento front-end e back-end, construindo sistemas que atendem às necessidades reais dos usuários.
 
 ---
 
@@ -28,9 +19,34 @@ Meus projetos envolvem:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & Automação
+### ⚙️ Backend & Outras Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🏗️ Arquitetura Full-Stack
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge)
+&nbsp;➡️&nbsp;
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge)
+&nbsp;➡️&nbsp;
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB%20%7C%20PostgreSQL-lightgrey?style=for-the-badge)
+&nbsp;➡️&nbsp;
+![Cloud/Deploy](https://img.shields.io/badge/Deploy-AWS%20%7C%20Docker%20%7C%20Firebase-orange?style=for-the-badge)
+
+</div>
+
+> Este diagrama mostra como minhas aplicações conectam **Front-end**, **Back-end**, **Bancos de Dados** e **Cloud/Deploy**.
 
 ---
 
@@ -40,9 +56,9 @@ Meus projetos envolvem:
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 🚀 Projeto 1 | Web Scraping de dados complexos | [Repositório](#) |
-| 💡 Projeto 2 | Automação de tarefas repetitivas | [Repositório](#) |
-| 🖥️ Projeto 3 | Dashboard interativo em Python | [Repositório](#) |
+| 🚀 Projeto 1 | Site institucional moderno | [Repositório](#) |
+| 💡 Projeto 2 | Sistema de cadastro e login | [Repositório](#) |
+| 🖥️ Projeto 3 | Dashboard interativo | [Repositório](#) |
 
 </div>
 
@@ -60,27 +76,15 @@ Meus projetos envolvem:
 ---
 
 ## ⚡ Curiosidade do Dia
-> Aqui vai aparecer uma frase aleatória a cada atualização ✨  
-
-*(Frases são atualizadas automaticamente com GitHub Actions a cada 6h ou manualmente)*
+> Aqui vai aparecer uma frase aleatória a cada atualização ✨
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterFIM&show_icons=true&theme=dark&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterFIM&layout=compact&theme=dark)
+![Top Linguagens](https://img.shields.io/badge/Top%20Linguagens-Node.js%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-lightgrey?style=for-the-badge)
 
 ---
 
-## 🎮 Fun Extras
-
-- 🕹️ [Jogue comigo no Minecraft!](#) *(ou outro projeto divertido)*
-- 🎵 Música que estou ouvindo: *“Song Name – Artista”*  
-- 🌱 Atualmente aprendendo: *Docker, Kubernetes, AI*  
-- 💬 Curiosidade divertida: “Cada commit é um passo para a imortalidade digital” 😎
-
----
-
-✨ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus repositórios, contribuir e se divertir!  
+✨ Obrigado por visitar meu perfil! Explore meus repositórios e contribua.

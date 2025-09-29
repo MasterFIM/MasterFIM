@@ -69,7 +69,7 @@ Tenho experiência em desenvolvimento front-end e back-end, construindo sistemas
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MasterFIM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterFIM)
-[![Email](https://img.shields.io/badge/Email-seu-email-aqui-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
+[![Email](https://img.shields.io/badge/Email-seu-email-aqui-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedito.inacio.177@gmail.com)
 
 </div>
 

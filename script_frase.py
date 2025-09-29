@@ -2,12 +2,12 @@ import random
 
 # Lista de frases
 frases = [
-    "Sempre buscando melhorar minhas habilidades! 💪",
-    "Cada projeto é uma oportunidade de aprendizado 🚀",
-    "Front-end ou back-end, o importante é criar soluções! 🔧",
-    "Codar é transformar ideias em realidade 🌟",
-    "Desenvolvimento web é minha paixão ❤️",
-    "Um commit por vez, construindo o futuro 👨‍💻"
+    "Sempre buscando melhorar minhas habilidades! ",
+    "Cada projeto é uma oportunidade de aprendizado ",
+    "Front-end ou back-end, o importante é criar soluções! ",
+    "Codar é transformar ideias em realidade ",
+    "Desenvolvimento web é minha paixão ",
+    "Um commit por vez, construindo o futuro "
 ]
 
 # Escolhe uma frase aleatória
